@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - this is the main function
+ * main -this is the main function
  *
- * Return: 0 when good to go
+ * Return: always 0
  */
 
 int main(void)
 {
-	printf("\"with proper grammar, but the outcome is a piece of art")
-		return (0);
+	printf("with proper gramar, but the outcome is a piece of art,\n");
+	return (0);
 }
