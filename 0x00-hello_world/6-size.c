@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main -this is a main function
+ * main -print sizr of various types
  *
- * Return always 0
+ * Return: always 0
  */
 
 int main(void)
